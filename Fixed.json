@@ -3,12 +3,6 @@
 	"version": "1.0",
 	"description": "Made it better",
 	"color": "#280c61",
-	"authors": [
-		{
-			"name": "Sudo",
-			"id": "696446023815397456"
-		}
-	],
 	"theme_color_map": {
 		"KEYBOARD": ["#324151", "#324151"],
 		"BACKGROUND_PRIMARY": ["#324151", "#324151"],
