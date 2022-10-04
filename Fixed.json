@@ -3,6 +3,12 @@
 	"version": "1.0",
 	"description": "Made it better",
 	"color": "#280c61",
+  "background": {
+    "blur": 1,
+    "url": "https://media.discordapp.net/attachments/996426870633545831/1018496644095950928/IMG_0638.png",
+    "alpha": 1.0
+  }
+
 	"theme_color_map": {
 		"KEYBOARD": ["#324151", "#324151"],
 		"BACKGROUND_PRIMARY": ["#324151", "#324151"],
